@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r}
-#Importing data set as a csv file
+#Importing dataset as a csv file
 library(readr)
 shark <- read_csv("~/Downloads/export.csv")
 View(shark)
@@ -14,7 +14,8 @@ View(shark)
 
 
 ```{r}
-
+#getting ready to tidy data
+library(tidyverse)
 ```
 
 
