@@ -16,10 +16,12 @@ View(shark)
 ```{r}
 #getting ready to tidy data
 library(tidyverse)
+head(shark)
 ```
 
 
 ```{r}
+#tidy data
 
 ```
 
